@@ -6,7 +6,7 @@
 
 项目代码存放于Codes文件夹下，文件组织如下：
 
-![image-20240514110652928](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20240514110652928.png)
+![image-20240514110652928](./效果截图/image-20240514110652928.png)
 
 lib文件夹：存放库文件，项目已提供，未做改动；
 
@@ -62,10 +62,10 @@ keyBoardEvents.js：监听、处理键盘按下事件，处理鼠标拖动网格
 
 ## 八、部分运行效果展示
 
-![image-20240514122716735](/C:/Users/HP/AppData/Roaming/Typora/typora-user-images/image-20240514122716735.png)
+![](./效果截图/image-20240514122459856.png)
 
-![image-20240514122459856](/C:/Users/HP/AppData/Roaming/Typora/typora-user-images/image-20240514122459856.png)
+![](./效果截图/image-20240514122612079.png)
 
-![image-20240514122612079](/C:/Users/HP/AppData/Roaming/Typora/typora-user-images/image-20240514122612079.png)
+![](./效果截图/image-20240514122643623.png)
 
-![image-20240514122643623](/C:/Users/HP/AppData/Roaming/Typora/typora-user-images/image-20240514122643623.png)
+![](./效果截图/image-20240514122716735.png)
